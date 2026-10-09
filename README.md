@@ -13,7 +13,7 @@ I study how language models can reason with structure, investigate complex quest
 | :--- | :--- | :--- |
 | **Structured Reasoning** — efficient and explainable reasoning through explicit structure | ICLR 2026 | [Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/ad5b3f324b24c17cdc2f3712298c76bd-Abstract-Conference.html) · [Project materials](https://github.com/cnsdqd-dyb/Enhancing-Large-Language-Models-through-Structured-Reasoning) · [Dataset](https://huggingface.co/datasets/FreeFrank/Structured-Reasoning) |
 | **Super Research** — deep and wide investigation for highly complex questions | arXiv, 2026 | [Paper](https://arxiv.org/abs/2603.00582) · [Project & leaderboard](https://cnsdqd-dyb.github.io/Super-Research-Benchmark/) · [Repository](https://github.com/cnsdqd-dyb/Super-Research-Benchmark) |
-| **VillagerAgent** — coordinating multi-agent task dependencies in Minecraft | Findings of ACL 2024 | [Paper](https://aclanthology.org/2024.findings-acl.964/) · [Code](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) |
+| **VillagerAgent** — coordinating multi-agent task dependencies in Minecraft | ACL 2024 | [Paper](https://aclanthology.org/2024.findings-acl.964/) · [Code](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) |
 
 Structured Reasoning's dataset and project materials are public; training code and checkpoints have not yet been released.
 
